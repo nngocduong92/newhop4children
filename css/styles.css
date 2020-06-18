@@ -763,7 +763,7 @@ a.rollover:hover i, .rollover-video:hover i, .touch .is-clicked .rollover-conten
 #fancy-header{
 	background-color: #000000; background-size: cover; 
 	background-repeat: no-repeat; 
-	background-image: url(http://ffscvn.org/wp-content/uploads/2015/07/gioi-thieu.jpg); 
+	background-image: url(''); 
 	background-position: center center; min-height: 135px
 }
 .pagenews h2, .h2-size, .entry-title.h2-size, h1.entry-title {   

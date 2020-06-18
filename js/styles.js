@@ -193,7 +193,7 @@ $(document).ready(function () {
 // 				// 		hideCaptionAtLimit:768,
 // 				// 		hideAllCaptionAtLilmit:0,
 // 				// 		startWithSlide:0,
-// 				// 		//videoJsPath:"http://ffscvn.org/wp-content/plugins/revslider/rs-plugin/videojs/",
+// 				// 		//videoJsPath:"videosurl",
 // 				// 		fullScreenOffsetContainer: ""	
 // 				// 	});
 				
@@ -278,7 +278,7 @@ $(document).ready(function () {
 // 						hideCaptionAtLimit:768,
 // 						hideAllCaptionAtLilmit:0,
 // 						startWithSlide:0,
-// 						videoJsPath:"http://ffscvn.org/wp-content/plugins/revslider/rs-plugin/videojs/",
+// 						videoJsPath:"videourl",
 // 						fullScreenOffsetContainer: ""	
 // 					});
 				
